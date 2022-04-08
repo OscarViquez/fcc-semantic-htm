@@ -1,0 +1,30 @@
+/* CSS RESET */
+/* ============================================================================================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  li,
+  a {
+    text-decoration: none;
+    list-style-type: none;
+    color: inherit;
+  }
+  
+/* Main Section Of the Page */
+/* ============================================================================================== */
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+.container {
+    padding: 5rem 0;
+    width: 600px;
+}
